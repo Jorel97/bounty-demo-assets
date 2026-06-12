@@ -1,3 +1,5 @@
+[![Powered by RustChain](https://img.shields.io/badge/Powered%20by-RustChain-orange)](https://rustchain.org)
+
 # Bounty demo assets
 
 Short public demo artifacts for GitHub bounty submissions.
